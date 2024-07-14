@@ -3,7 +3,7 @@ Python là một ngôn ngữ lập trình thông dịch vì:
   Thực thi trực tiếp: Mã Python được thực thi dòng lệnh theo dòng lệnh bởi trình thông dịch Python. Điều này cho phép lập trình viên chạy mã nhanh chóng mà không cần qua giai đoạn biên dịch.
   Tính linh hoạt và phát triển nhanh: Việc không cần biên dịch trước giúp việc phát triển và gỡ lỗi mã Python nhanh chóng và dễ dàng hơn. Lập trình viên có thể thay đổi mã và chạy lại ngay lập tức để kiểm tra kết quả.
   Khả năng đa nền tảng: Mã Python có thể chạy trên nhiều hệ điều hành khác nhau mà không cần thay đổi, miễn là có trình thông dịch Python phù hợp.
-  Tính động: Python hỗ trợ kiểu dữ liệu động, tức là bạn không cần khai báo kiểu biến trước khi sử dụng. Điều này được xử lý bởi trình thông dịch trong thời gian chạy.
+  Tính động: Python hỗ trợ kiểu dữ liệu động, tức là bạn không cần khai báo kiểu biến trước khi sử dụng. Điều này được xử lý bởi trình thông dịch trong thời gian chạy
 Bài 2:
 1.Các kiểu dữ liệu trong Python:
 Số (Numeric Types):
